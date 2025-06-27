@@ -1,8 +1,7 @@
 name: aa_tooltip
 description: "A library for showing tooltips"
 version: 0.0.1
-
-homepage:
+homepage: https://github.com/TuanVuuuu/aa_tooltip
 
 environment:
   sdk: ^3.8.0
